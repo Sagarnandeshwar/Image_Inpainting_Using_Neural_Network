@@ -42,5 +42,6 @@ The research team at Nvidia has kept their entire implementation private from th
 - COMP 551: Applied Machine Learning (activation function, RELU instead of L_total for  simplicity, comparison function and Model compile arguments) 
  
 ## Result 
+![Result](https://github.com/Sagarnandeshwar/COMP558_ImageInpainting/blob/main/image/result.png)
 The first column represents the marked input image, the second column represents the mark, the third column represents the output of the model, and the last column represents the original image 
 
