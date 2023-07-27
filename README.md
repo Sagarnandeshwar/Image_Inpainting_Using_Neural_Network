@@ -1,4 +1,4 @@
-# Comp 558  
+# Comp 558: Final Project
 In this project, we have studied and implemented different Inpainting methods to recover artistic paintings damaged by irregular patches back to their original form. We have analyzed two procedural methods - Telea Algorithm and Naive Strokes method - and one data-driven method - Partial Convolution. We have implemented Telea Algorithm and Partial Convolution.  
  
 [I worked on Naive Stroke Method and building the Partial Convolution Network] 
